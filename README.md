@@ -10,3 +10,6 @@ Projeto de e-commerce simples com React + Vite, com carrinho, checkout simulado 
 - Context API
 - LocalStorage
 
+Visualizar: 
+https://richard-moura.github.io/my-ecommerce/
+
