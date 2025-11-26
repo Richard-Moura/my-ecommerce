@@ -1,5 +1,5 @@
 {
-  "homepage": " https://richard-moura.github.io/my-ecommerce/",
+  "homepage": "https://richard-moura.github.io/my-ecommerce/",
   "name": "my-ecommerce",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
