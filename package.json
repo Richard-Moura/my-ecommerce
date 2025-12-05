@@ -21,7 +21,11 @@
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
+<<<<<<< HEAD
     "vite": "^7.2.4"
+=======
+    "vite": "^7.2.6"
+>>>>>>> af83053 (Corrigido erro de renderização do Router e ajustes no código)
   },
   "dependencies": {
     "react": "^18.2.0",
